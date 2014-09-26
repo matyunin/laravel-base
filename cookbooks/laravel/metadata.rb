@@ -1,0 +1,7 @@
+name             'laravel'
+maintainer       'Mikhail Matyunin'
+maintainer_email 'free.all.bums@gmail.com'
+license          'GPL'
+description      'Installs/Configures Laravel environment'
+long_description 'Installs/Configures Laravel environment'
+version          '1.0.0'

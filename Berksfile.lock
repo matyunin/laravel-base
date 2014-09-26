@@ -1,0 +1,8 @@
+DEPENDENCIES
+  laravel
+    path: cookbooks/laravel
+  yum
+
+GRAPH
+  laravel (1.0.0)
+  yum (3.3.2)
